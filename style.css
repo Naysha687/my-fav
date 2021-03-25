@@ -1,0 +1,38 @@
+body{
+  text-align:center;
+  background:linear-gradient(#03fce8 0%,#03fca5 100%);
+  
+}
+h1{
+  font-style:normal;
+  font-size:25px;
+}
+img{
+  border-style:solid;
+  padding:9px;
+  width:230px;
+}
+p{
+  font-size:18px;
+  font-style:normal;
+}
+#welcome{
+    height: 350px;
+}
+hr{
+    color: black;
+    height: auto;
+}
+.links{
+    float: right;
+    color: deeppink;
+    padding-top:5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 15px;
+}
+.links:hover{
+    background-color: chocolate;
+}
